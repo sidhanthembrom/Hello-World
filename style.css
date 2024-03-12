@@ -1,0 +1,14 @@
+h1{
+    background-color: black;
+    color: aqua;
+    text-align: center;
+}
+
+h1:hover{
+    text-shadow: 0 0 20px aqua;
+    cursor: pointer;
+}
+
+p{
+    text-align: center;
+}
